@@ -1,14 +1,9 @@
 
 > Open this page at [https://e9228.github.io/a----i/](https://e9228.github.io/a----i/)
 
-## Use as Extension
+## Tutorial
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/e9228/a----i** and import
+*[Tutorial](/Tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/e9228/a----i/workflows/MakeCode/badge.svg)
 
